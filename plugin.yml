@@ -1,0 +1,4 @@
+name: CakeBananaPlugin
+main: de.lycake.CakeBananaPlugin.CakeBananaPlugin
+version: 0.1
+author: Lycake
